@@ -11,8 +11,8 @@ A simple, small scale "library management system" based on GitHub.
 - topic: groups items (directory in repository)
 - item: is borrowed/lent by user/admin (file in repository)
 - request: borrow this item for n weeks (issue with item name, user, timestamp)
-- user: borrows items (GitHub user with right to read, open an issue)
-- admin: lends items (GitHub user with right to edit, change an issue)
+- user: borrows items (GitHub user with right to search and read files, open an issue)
+- admin: lends items (GitHub user with right to edit the repository, add files, tag an issue)
 
 ## Use cases
 ### Find an item
