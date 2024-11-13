@@ -7,8 +7,8 @@ A simple library management system based on GitHub.
 - topic: groups items (directory in repository)
 - item: is borrowed/lent by user/admin (file in repository)
 - loan: item i by user u from date d, for n weeks (task in project board)
-- user: borrows items (Github user with right to read, open an issue)
-- admin: lends items (Github user with commit rights)
+- user: borrows items (GitHub user with right to read, open an issue)
+- admin: lends items (GitHub user with commit rights)
 
 ## Use cases
 ### Find an item
