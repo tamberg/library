@@ -1,5 +1,5 @@
 # Library
-A simple library management system based on GitHub.
+A simple, small scale "library management system" based on GitHub.
 
 > Work in progress, contact thomas.amberg@fhnw.ch.
 
