@@ -8,8 +8,8 @@ A simple, small scale, low volume "library management system" based on GitHub.
 - Use GitHub features
 
 ## Entities
-- Items: is borrowed by user / lent by admin (a file in this repository)
-- Topics: groups items (a directory, or a file with redirect links, in this repository)
+- Items: are borrowed by user / lent by admin (a file in this repository)
+- Topics: group items (a directory, or a file with redirect links, in this repository)
 - Search: to find items by group or item name (a search for a directory or a file name)
 - Requests: to borrow this item for n weeks (an issue with the item name, user, timestamp)
 - Availability checks: to list requests for this item (the issue list filtered by the item name)
