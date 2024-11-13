@@ -1,5 +1,5 @@
 # Bluetooth Low Energy (BLE)
-TODO
+This redirects to
 
 ## Computers
 - [Raspberry Pi Zero W](../../Computers/Raspberry_Pi_Zero_W.md)
