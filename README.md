@@ -10,9 +10,9 @@ A simple, small scale "library management system" based on GitHub.
 ## Entities
 - topic: groups items (directory in repository)
 - item: is borrowed/lent by user/admin (file in repository)
-- loan: item i by user u from date d, for n weeks (task in project board)
+- request: borrow this item for n weeks (issue with item name, user, timestamp)
 - user: borrows items (GitHub user with right to read, open an issue)
-- admin: lends items (GitHub user with right to edit, add a task)
+- admin: lends items (GitHub user with right to edit, change an issue)
 
 ## Use cases
 ### Find an item
