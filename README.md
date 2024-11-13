@@ -26,5 +26,8 @@ A simple, small scale "library management system" based on GitHub.
 - Add a task to the project board using the loan [template](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository).
 - Edit the item file to indicate availability, link loan.
 
+### Recall an item
+- Contact user in last loan through linked borrowing issue.
+
 ### Add an item
 - Add an item file to a topic directory.
