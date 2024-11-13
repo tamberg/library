@@ -3,6 +3,10 @@ A simple, small scale "library management system" based on GitHub.
 
 > Work in progress, contact thomas.amberg@fhnw.ch.
 
+## Goals
+- Keep it simple
+- Use GitHub features
+
 ## Entities
 - topic: groups items (directory in repository)
 - item: is borrowed/lent by user/admin (file in repository)
