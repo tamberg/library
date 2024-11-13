@@ -6,6 +6,7 @@ A simple, small scale, low volume "library management system" based on GitHub.
 ## Goals
 - Keep it simple
 - Use GitHub features
+- Use [pre-populated](https://stackoverflow.com/questions/34146618/pre-populate-the-github-new-issue-form-using-the-querystring) links
 
 ## Entities
 - Item — a thing to be borrowed by users and lent by admins, respectively (a file in this GitHub repository)
@@ -25,7 +26,7 @@ A simple, small scale, low volume "library management system" based on GitHub.
 - Filter issues for `is:issue is:open "item name", like [this](TODO).
 
 ### Request an item
-- File a [pre-populated](https://stackoverflow.com/questions/34146618/pre-populate-the-github-new-issue-form-using-the-querystring) issue, like [this](TODO).
+- File a  issue, like [this](TODO).
 
 ### List my requests
 - Filter issues for `is:open is:issue author:@me`, like [this](TODO).
