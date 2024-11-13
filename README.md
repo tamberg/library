@@ -35,4 +35,8 @@ A simple, small scale "library management system" based on GitHub.
 
 ### Add an item
 - Add an item file to a topic directory.
-- Create check/borrow links by hand or use a CLI python script.
+- Create check/borrow links by hand.
+
+### Automation
+- CLI python script to create links?
+- GitHub actions and badges?
