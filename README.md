@@ -35,3 +35,4 @@ A simple, small scale "library management system" based on GitHub.
 
 ### Add an item
 - Add an item file to a topic directory.
+- Create check/borrow links by hand or use a CLI python script.
