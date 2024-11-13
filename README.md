@@ -19,24 +19,34 @@ A simple, small scale "library management system" based on GitHub.
 - Use GitHub file search to find an item file in the repository.
 
 ### Check availability
-- Use a filter on GitHub issues to see if there are other borrow requests.
+- Filter issues for `is:issue is:open "item name", like [this](TODO).
 
-### Borrow an item
-- File a [pre-populated](https://stackoverflow.com/questions/34146618/pre-populate-the-github-new-issue-form-using-the-querystring) GitHub issue to ask for an item.
-- Get items sent to you or fetch it in person.
+### Request an item
+- File a [pre-populated](https://stackoverflow.com/questions/34146618/pre-populate-the-github-new-issue-form-using-the-querystring) issue, like [this](TODO).
 
-### Lend an item
+### List own borrow requests
+- Filter issues for `is:open` `is:issue` `author:@me`, like [this](TODO).
+
+### List any user's requests
+- Filter issues for `is:open` `is:issue` `author:user`, like [this](TODO).
+
+### Respond to a borrow request (admin)
+- Tag request issue with `ready` once available.
+- Use issue comments to reach out if necesssary.
+
+### Lend an item (admin)
 - Add a task to the project board using the loan [template](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository).
 - Edit the item file to indicate availability, link loan.
 
-### Recall an item
+### Recall an item (admin)
 - Contact user in last loan through linked borrowing issue.
 - Communicate using [tags/labels](https://github.com/tamberg/library/issues/labels) `ready`, `out`, `due`, `late`, `returned`, `lost`.
 
-### Add an item
+### Add an item (admin)
 - Add an item file to a topic directory.
 - Create check/borrow links by hand.
 
 ### Automation
 - CLI python script to create links?
 - GitHub actions and badges?
+- Use issue [template](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository)?
