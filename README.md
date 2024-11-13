@@ -1,7 +1,7 @@
 # Library
 A simple, small scale "library management system" based on GitHub.
 
-> Work in progress, contact thomas.amberg@fhnw.ch.
+> Work in progress, contact thomas.amberg@fhnw.ch
 
 ## Goals
 - Keep it simple
