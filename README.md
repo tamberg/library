@@ -13,7 +13,7 @@ A simple, small scale, low volume "library management system" based on GitHub.
 - Search — to find items by group or item name (a search for a full or partial directory or file name)
 - Request — to borrow this item for n weeks (a new issue with the item name, user and timestamp)
 - Availability check — to list requests for this item (the list of open issues filtered by the item name)
-- User — who borrows items (a GitHub user with rights to search and read files, and open new issues)
+- User — who borrows items (a GitHub user with the right to search and read files, open new issues)
 - Admin — who lends items (a GitHub user with rights to edit, add files to the repository, tag issues)
 - Tag — for `ready`, `out`, `due`, `late`, `lost` or `closed` requests (by labeling or closing an issue)
 
