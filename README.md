@@ -18,6 +18,9 @@ A simple, small scale "library management system" based on GitHub.
 ### Find an item
 - Use GitHub file search to find an item file in the repository.
 
+### Check availability
+- Use a filter on GitHub issues to see if there are other borrow requests.
+
 ### Borrow an item
 - File a [pre-populated](https://stackoverflow.com/questions/34146618/pre-populate-the-github-new-issue-form-using-the-querystring) GitHub issue to ask for an item.
 - Get items sent to you or fetch it in person.
