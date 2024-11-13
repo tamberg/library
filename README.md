@@ -1,1 +1,26 @@
-# library
+# Library
+A simple library management system based on GitHub.
+
+Work in progress, contact thomas.amberg@fhnw.ch
+
+## Entities
+- topic: groups items (directory in repository)
+- item: is borrowed/lent by user/admin (file in repository)
+- loan: item i by user u from date d, for n weeks (task in project board)
+- user: borrows items (Github user with reading rights)
+- admin: lends items (Github user with commit rights)
+
+## Use cases
+### Find an item
+- Use GitHub search to find an item file in the repository.
+
+### Borrow an item
+- File a GitHub issue to ask for an item.
+- Get items sent to you or fetch it in person.
+
+### Lend an item
+- Add a tak to the project board using the loan template.
+- Edit the item file to indicate availability, link loan.
+
+### Add an item
+- Add an item file to a topic directory.
