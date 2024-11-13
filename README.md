@@ -1,7 +1,7 @@
 # Library
 A simple library management system based on GitHub.
 
-Work in progress, contact thomas.amberg@fhnw.ch
+> Work in progress, contact thomas.amberg@fhnw.ch.
 
 ## Entities
 - topic: groups items (directory in repository)
