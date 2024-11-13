@@ -16,7 +16,7 @@ A simple, small scale "library management system" based on GitHub.
 
 ## Use cases
 ### Find an item
-- Use GitHub search to find an item file in the repository.
+- Use GitHub file search to find an item file in the repository.
 
 ### Borrow an item
 - File a [pre-populated](https://stackoverflow.com/questions/34146618/pre-populate-the-github-new-issue-form-using-the-querystring) GitHub issue to ask for an item.
