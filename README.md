@@ -38,13 +38,13 @@ A simple, small scale "library management system" based on GitHub.
 - Tag request issue with `out`.
 
 ### Recall a due item (admin)
-- Tag an item with `due`.
+- Tag request issue with `due`.
 
 ### Remind a late user (admin)
-- Tag an item with `late`.
+- Tag request issue with `late`.
 
 ### Remind an overdue user (admin)
-- Tag an item with `overdue`.
+- Tag request issue with `overdue`.
 
 ### Add an item (admin)
 - Add an item file to a topic directory.
