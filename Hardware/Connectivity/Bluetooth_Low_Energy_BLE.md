@@ -2,7 +2,7 @@
 Redirects to
 
 ## Computers with BLE
-- [Raspberry Pi Zero W](../../Computers/Raspberry_Pi_Zero_W.md)
+- [Raspberry Pi Zero W](../Computers/Raspberry_Pi_Zero_W.md)
 - ...
 
 ## Microcontrollers with BLE
