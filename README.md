@@ -6,7 +6,7 @@ A simple, small scale, low volume "library management system" based on GitHub.
 ## Goals
 - Keep it simple
 - Use GitHub features
-- Use hyperlinks [to filter](https://stackoverflow.com/questions/34146618/pre-populate-the-github-new-issue-form-using-the-querystring)
+- Use hyperlinks [to pre-populate](https://stackoverflow.com/questions/34146618/pre-populate-the-github-new-issue-form-using-the-querystring)
 
 ## Entities
 - Item — a thing to be borrowed by users and lent by admins, respectively (a file in this GitHub repository)
