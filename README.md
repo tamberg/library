@@ -24,26 +24,31 @@ A simple, small scale "library management system" based on GitHub.
 ### Request an item
 - File a [pre-populated](https://stackoverflow.com/questions/34146618/pre-populate-the-github-new-issue-form-using-the-querystring) issue, like [this](TODO).
 
-### List own borrow requests
+### List my requests
 - Filter issues for `is:open` `is:issue` `author:@me`, like [this](TODO).
 
 ### List any user's requests
 - Filter issues for `is:open` `is:issue` `author:user`, like [this](TODO).
 
-### Respond to a borrow request (admin)
+### Respond to a request (admin)
 - Tag request issue with `ready` once available.
 - Use issue comments to reach out if necesssary.
 
-### Lend an item (admin)
-- Add a task to the project board using the loan [template](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository).
-- Edit the item file to indicate availability, link loan.
+### Hand-out an item (admin)
+- Tag request issue with `out`
 
-### Recall an item (admin)
-- Contact user in last loan through linked borrowing issue.
-- Communicate using [tags/labels](https://github.com/tamberg/library/issues/labels) `ready`, `out`, `due`, `late`, `returned`, `lost`.
+### Recall a due item (admin)
+- Tag an item with `due`
+
+### Remind a late user (admin)
+- Tag an item with `late`
+
+### Remind an overdue user (admin)
+- Tag an item with `overdue`
 
 ### Add an item (admin)
 - Add an item file to a topic directory.
+- Add the item to redirecting entries.
 - Create check/borrow links by hand.
 
 ### Automation
