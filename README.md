@@ -23,7 +23,7 @@ A simple, small scale "library management system" based on GitHub.
 - Get items sent to you or fetch it in person.
 
 ### Lend an item
-- Add a tak to the project board using the loan [template](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository).
+- Add a task to the project board using the loan [template](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository).
 - Edit the item file to indicate availability, link loan.
 
 ### Add an item
