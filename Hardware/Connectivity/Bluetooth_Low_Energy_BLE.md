@@ -7,6 +7,7 @@ Redirects to
 
 ## Microcontrollers
 - [Adafruit Feather nRF52840 Express](../Microcontrollers/Adafruit_Feather_nRF52840_Express.md)
+- [Adafruit Feather nRF52840 Sense](../Microcontrollers/Adafruit_Feather_nRF52840_Sense.md)
 - ...
 
 ## Modules
