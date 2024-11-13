@@ -25,26 +25,26 @@ A simple, small scale "library management system" based on GitHub.
 - File a [pre-populated](https://stackoverflow.com/questions/34146618/pre-populate-the-github-new-issue-form-using-the-querystring) issue, like [this](TODO).
 
 ### List my requests
-- Filter issues for `is:open` `is:issue` `author:@me`, like [this](TODO).
+- Filter issues for `is:open is:issue author:@me`, like [this](TODO).
 
 ### List any user's requests
-- Filter issues for `is:open` `is:issue` `author:user`, like [this](TODO).
+- Filter issues for `is:open is:issue author:user`, like [this](TODO).
 
 ### Respond to a request (admin)
 - Tag request issue with `ready` once available.
 - Use issue comments to reach out if necesssary.
 
 ### Hand-out an item (admin)
-- Tag request issue with `out`
+- Tag request issue with `out`.
 
 ### Recall a due item (admin)
-- Tag an item with `due`
+- Tag an item with `due`.
 
 ### Remind a late user (admin)
-- Tag an item with `late`
+- Tag an item with `late`.
 
 ### Remind an overdue user (admin)
-- Tag an item with `overdue`
+- Tag an item with `overdue`.
 
 ### Add an item (admin)
 - Add an item file to a topic directory.
