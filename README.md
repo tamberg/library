@@ -31,7 +31,7 @@ A simple, small scale "library management system" based on GitHub.
 
 ### Recall an item
 - Contact user in last loan through linked borrowing issue.
-- Communicate using [tags/labels](https://github.com/tamberg/library/issues/labels) `ready`, `out`, `due`, `late`, `returned`.
+- Communicate using [tags/labels](https://github.com/tamberg/library/issues/labels) `ready`, `out`, `due`, `late`, `returned`, `lost`.
 
 ### Add an item
 - Add an item file to a topic directory.
