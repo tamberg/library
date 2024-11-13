@@ -30,23 +30,23 @@ A simple, small scale "library management system" based on GitHub.
 ### List any user's requests
 - Filter issues for `is:open is:issue author:user`, like [this](TODO).
 
-### Respond to a request (admin)
+### Respond to a request
 - Tag request issue with `ready` once available.
 - Use issue comments to reach out if necesssary.
 
-### Hand-out an item (admin)
+### Hand-out an item
 - Tag request issue with `out`.
 
-### Recall a due item (admin)
+### Recall a due item
 - Tag request issue with `due`.
 
-### Remind a late user (admin)
+### Remind a late user
 - Tag request issue with `late`.
 
-### Remind an overdue user (admin)
+### Remind an overdue user
 - Tag request issue with `overdue`.
 
-### Add an item (admin)
+### Add an item
 - Add an item file to a topic directory.
 - Add the item to redirecting entries.
 - Create check/borrow links by hand.
