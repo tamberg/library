@@ -10,7 +10,7 @@ A simple, small scale, low volume "library management system" based on GitHub.
 ## Entities
 - Item — is borrowed by a user and lent by an admin (a file in this repository)
 - Topic — groups items (a directory, or a file with redirect links, in this repository)
-- Search — to find items by group or item name (a search for a directory or a file name, also partial)
+- Search — to find items by group or item name (a full/partial search for a directory or a file name)
 - Request — to borrow this item for n weeks (a new issue with the item name, user and timestamp)
 - Availability check — to list requests for this item (the list of open issues filtered by the item name)
 - User — who borrows items (a GitHub user with the right to search and read files, open new issues)
