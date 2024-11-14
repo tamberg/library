@@ -50,7 +50,7 @@ A simple, small scale, low volume "library management system" based on GitHub.
 
 ### Respond to a request
 - Tag a request with `ready`, once the item is available.
-- Add comments to a request, to reach out, if necesssary.
+- Add comments to a request, reach out, if necesssary.
 
 ### Hand-out an item
 - Tag request issue with `out`.
@@ -61,13 +61,10 @@ A simple, small scale, low volume "library management system" based on GitHub.
 ### Remind a late user
 - Tag request issue with `late`.
 
-### Remind an overdue user
-- Tag request issue with `overdue`.
-
 ### Add an item
-- Add an item file to a topic directory.
-- Add the item to redirecting entries.
-- Create check/borrow links by hand.
+- Add an item (file) to a topic (directory).
+- Add the item to redirecting entries (files).
+- Create [pre-populated links](https://stackoverflow.com/questions/34146618/pre-populate-the-github-new-issue-form-using-the-querystring) to check/borrow.
 
 ### Automation
 - CLI python script to create links?
