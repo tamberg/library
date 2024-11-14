@@ -50,7 +50,7 @@ A simple, small scale, low volume "library management system" based on GitHub.
 - Log in to [see your requests](../../issues?q=is%3Aissue+is%3Aopen+author%3A@me) (issues).
 
 ### List any user's requests
-- See any [user's requests](../../issues?q=is%3Aissue+is%3Aopen+author%3A@user) (issues).
+- See any [user's requests](../../issues?q=is%3Aissue+is%3Aopen+author%3AGITHUB_USER) (issues).
 
 ### Respond to a request
 - Tag a request with `ready`, once the item is available.
