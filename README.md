@@ -34,23 +34,23 @@ A simple, small scale, low volume "library management system" based on GitHub.
 
 ## Use cases
 ### Find an item
-- Use GitHub file search to find an item file in the repository.
+- Use the GitHub file search, to find an item.
 
 ### Check availability
-- Filter issues for `is:issue is:open "item name", like [this](TODO).
+- [Find an item](), click [check availability]().
 
 ### Request an item
-- File a  issue, like [this](TODO).
+- [Find an item](), click [borrow this]().
 
 ### List my requests
-- Filter issues for `is:open is:issue author:@me`, like [this](TODO).
+- Log in, then [see your requests]().
 
 ### List any user's requests
-- Filter issues for `is:open is:issue author:user`, like [this](TODO).
+- See any [user's requests]().
 
 ### Respond to a request
-- Tag request issue with `ready` once available.
-- Use issue comments to reach out if necesssary.
+- Tag a request with `ready`, once the item is available.
+- Add comments to a request, to reach out, if necesssary.
 
 ### Hand-out an item
 - Tag request issue with `out`.
