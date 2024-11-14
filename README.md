@@ -18,7 +18,7 @@ A simple, small scale, low volume "library management system" based on GitHub.
 - To find items by group or item name — a GitHub search for a full or partial directory or file name.
 
 ### Request
-- To borrow this item for n weeks — a new GitHub issue with the item name, user and timestamp.
+- To borrow this item for _n_ weeks — a new GitHub issue with the item name, user and timestamp.
 
 ### Availability
 - To list open requests for this item — the list of open GitHub issues filtered by the item name.
