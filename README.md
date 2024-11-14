@@ -7,9 +7,9 @@ A simple, small scale, low volume "library management system" based on GitHub.
 - Keep it simple
 - Use GitHub features
 
-## Mapping
+## Entities
 <details>
-<summary>How GitHub is used to manage items, topics, requests, etc.</summary>
+<summary>How GitHub features map to items, topics, requests, etc.</summary>
 
 ### Item
 - A thing to be borrowed by users and lent by admins, respectively — a file in this GitHub repository.
