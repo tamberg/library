@@ -8,6 +8,8 @@ A simple, small scale, low volume "library management system" based on GitHub.
 - Use GitHub features
 
 ## Entities
+<details>
+<summary>Click to expand</summary>
 ### Item
 - A thing to be borrowed by users and lent by admins, respectively — a file in this GitHub repository.
 
@@ -31,6 +33,7 @@ A simple, small scale, low volume "library management system" based on GitHub.
 
 ### Tag
 - For `ready`, `out`, `due`, `late` or `closed` requests — by labeling or closing a GitHub issue.
+</details>
 
 ## Use cases
 ### Find an item
