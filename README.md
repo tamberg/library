@@ -34,7 +34,7 @@ A simple, small scale, low volume "library management system" based on GitHub.
 
 ## Use cases
 ### Find an item
-- Use the GitHub file search, to find an item.
+- Use the GitHub (file) search, to find an item.
 
 ### Check availability
 - Find an item (file) to [check availability]().
