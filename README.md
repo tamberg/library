@@ -9,7 +9,7 @@ A simple, small scale, low volume "library management system" based on GitHub.
 
 ## Entities
 ### Item
-- A thing to be borrowed by users and lent by admins, respectively — a file in this GitHub repository.
+- To be borrowed by users and lent by admins, respectively — implemented as a file in this GitHub repository.
 
 ### Topic
 - To group items — a hierarchical directory, or a file with links to redirect, in this GitHub repository.
