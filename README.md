@@ -37,16 +37,16 @@ A simple, small scale, low volume "library management system" based on GitHub.
 - Use the GitHub file search, to find an item.
 
 ### Check availability
-- Find an item, click [check availability]().
+- Find an item (file) to [check availability]().
 
 ### Request an item
-- Find an item, click [borrow this]().
+- Find an item (file) to [borrow it]() (new issue).
 
 ### List my requests
-- Log in, then [see your requests]().
+- Log in to [see your requests]() (issues).
 
 ### List any user's requests
-- See any [user's requests]().
+- See any [user's requests]() (issues).
 
 ### Respond to a request
 - Tag a request with `ready`, once the item is available.
