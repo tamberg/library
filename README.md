@@ -9,7 +9,7 @@ A simple, small scale, low volume "library management system" based on GitHub.
 
 ## Entities
 <details>
-<summary>How GitHub features map to items, topics, requests, etc.</summary>
+<summary>Entities like items, topics, requests, etc. can be mapped to GitHub features.</summary>
 
 ### Item
 - A thing to be borrowed by users and lent by admins, respectively — a file in this GitHub repository.
