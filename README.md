@@ -10,6 +10,7 @@ A simple, small scale, low volume "library management system" based on GitHub.
 ## Entities
 <details>
 <summary>Click to expand</summary>
+
 ### Item
 - A thing to be borrowed by users and lent by admins, respectively — a file in this GitHub repository.
 
