@@ -38,7 +38,7 @@ A simple, small scale, low volume "library management system" based on GitHub.
 
 ## Use cases
 ### Find an item
-- Use the GitHub (file) search, to find an item.
+- Use the GitHub (file) search, to find [an item](Hardware/Microcontrollers/Adafruit_Feather_M4_Express.md).
 
 ### Check availability
 - Find an item (file) to [check its availability]().
