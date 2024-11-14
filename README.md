@@ -69,4 +69,4 @@ A simple, small scale, low volume "library management system" based on GitHub.
 ### Automation
 - CLI python script to create links?
 - GitHub actions and badges?
-- Use issue [template](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository)?
+- Use an issue [template](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository)?
