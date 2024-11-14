@@ -6,7 +6,7 @@ A simple, small scale, low volume "library management system" based on GitHub.
 ## Goals
 - Keep it simple
 - Use GitHub features
-- [Pre-fill](https://stackoverflow.com/questions/34146618/pre-populate-the-github-new-issue-form-using-the-querystring) / [label](https://github.com/tamberg/library/labels) to save typing
+- [Pre-fill](https://stackoverflow.com/questions/34146618/pre-populate-the-github-new-issue-form-using-the-querystring) to reduce typing
 
 ## Entities
 ### Item
