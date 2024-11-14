@@ -47,7 +47,7 @@ A simple, small scale, low volume "library management system" based on GitHub.
 - Find an item (file) to [borrow it](../../issues/new?title=Borrow%20request%20for%20Adafruit%20Feather%20M4%20Express&body=1%20piece%20of%20[this](../blob/main/Hardware/Microcontrollers/Adafruit_Feather_M4_Express.md)%20for%20~2%20weeks.) (new issue).
 
 ### List my requests
-- Log in to [see your requests](../../issues?q=is%3Aissue+is%3Aopen&%3Auser+is%3A@me) (issues).
+- Log in to [see your requests](../../issues?q=is%3Aissue+is%3Aopen&%3A+author%3A@me) (issues).
 
 ### List any user's requests
 - See any [user's requests]() (issues).
