@@ -7,9 +7,9 @@ A simple, small scale, low volume "library management system" based on GitHub.
 - Keep it simple
 - Use GitHub features
 
-## Entities
+## Mapping
 <details>
-<summary>Click to expand</summary>
+<summary>How GitHub is used</summary>
 
 ### Item
 - A thing to be borrowed by users and lent by admins, respectively — a file in this GitHub repository.
