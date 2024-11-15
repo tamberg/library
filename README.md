@@ -38,39 +38,44 @@ For `ready`, `out`, `due`, `late` or `closed` requests — by labeling or closin
 
 ## Use cases
 ### Find an item
-- Use the GitHub (file) search, to find [an item](Hardware/Microcontrollers/Adafruit_Feather_M4_Express.md).
+Use the GitHub (file) search, to find [an item](Hardware/Microcontrollers/Adafruit_Feather_M4_Express.md).
 
 ### Check availability
-- Find an item (file) to [check its availability](../../issues?q=is%3Aissue+is%3Aopen+%22Adafruit+Feather+M4+Express%22).
+Find an item (file) to [check its availability](../../issues?q=is%3Aissue+is%3Aopen+%22Adafruit+Feather+M4+Express%22).
 
 ### Request an item
-- Find an item (file) to [borrow it](../../issues/new?title=Borrow%20request%20for%20Adafruit%20Feather%20M4%20Express&body=1%20piece%20of%20[this](../blob/main/Hardware/Microcontrollers/Adafruit_Feather_M4_Express.md)%20for%20~2%20weeks.) (new issue).
+Find an item (file) to [borrow it](../../issues/new?title=Borrow%20request%20for%20Adafruit%20Feather%20M4%20Express&body=1%20piece%20of%20[this](../blob/main/Hardware/Microcontrollers/Adafruit_Feather_M4_Express.md)%20for%20~2%20weeks.) (new issue).
 
 ### List my requests
-- Log in to [see your requests](../../issues?q=is%3Aissue+is%3Aopen+author%3A@me) (issues).
+Log in to [see your requests](../../issues?q=is%3Aissue+is%3Aopen+author%3A@me) (issues).
 
 ### List any user's requests
-- See any [user's requests](../../issues?q=is%3Aissue+is%3Aopen+author%3AGITHUB_USER) (issues).
+See any [user's requests](../../issues?q=is%3Aissue+is%3Aopen+author%3AGITHUB_USER) (issues).
 
 ### Respond to a request
-- Tag a request with `ready`, once the item is available.
-- Add comments to a request, reach out, if necesssary.
+Tag a request with `ready`, once the item is available.
+
+Add comments to a request, reach out, if necesssary.
 
 ### Hand-out an item
-- Tag request issue with `out`.
+Tag request issue with `out`.
 
 ### Recall a due item
-- Tag request issue with `due`.
+Tag request issue with `due`.
 
 ### Remind a late user
-- Tag request issue with `late`.
+Tag request issue with `late`.
 
 ### Add an item
-- Add an item (file) to a topic (directory).
-- Add the item to redirecting entries (files).
-- Create [pre-populated links](https://stackoverflow.com/questions/34146618/pre-populate-the-github-new-issue-form-using-the-querystring) to check/borrow.
+Add an item (file) to a topic (directory).
+
+Add the item to redirecting entries (files).
+
+Create [pre-populated links](https://stackoverflow.com/questions/34146618/pre-populate-the-github-new-issue-form-using-the-querystring) to check/borrow.
 
 ### Automation
-- CLI python script to create links?
-- GitHub actions and badges?
-- Use an issue [template](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository)?
+CLI python script to create links?
+
+GitHub actions and badges?
+
+Use an issue [template](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository)?
