@@ -53,9 +53,8 @@ Log in to [see your requests](../../issues?q=is%3Aissue+is%3Aopen+author%3A@me) 
 See any [user's requests](../../issues?q=is%3Aissue+is%3Aopen+author%3AGITHUB_USER) (issues).
 
 ### Respond to a request
-Tag a request with `ready`, once the item is available.
-
-Add comments to a request, reach out, if necesssary.
+- Tag a request with `ready`, once the item is available.
+- Add comments to reach out, if necesssary.
 
 ### Hand-out an item
 Tag request issue with `out`.
