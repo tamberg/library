@@ -88,5 +88,5 @@ Close the request (issue).
 - GitHub actions and badges?
 - Use an issue [template](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository)?
 
-### Limitation
-- All requests, open and closed, are public
+### Limitations
+- All requests, open and closed, are public.
