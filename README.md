@@ -55,6 +55,9 @@ See any [user's requests](../../issues?q=is%3Aissue+is%3Aopen+author%3AGITHUB_US
 ### List all open requests
 See all [open requests](../../issues?q=is%3Aissue+is%3Aopen) (issues).
 
+### Get notified about requests
+Select _Watch > Custom > [x] Issues_ for the libray (repository).
+
 ### Respond to a request
 - Tag a request (issue) with `ready`, once the item is available.
 - Add comments to reach out to the user, if necesssary.
