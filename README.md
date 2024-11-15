@@ -65,6 +65,12 @@ Tag the request (issue) with `due`.
 ### Remind a late user
 Tag the request (issue) with `late`.
 
+### Mark a lost item
+Tag the request (issue) with `lost`.
+
+### Take back an item
+Close the request (issue).
+
 ### Add an item
 - Add an item (file) to a topic (directory).
 - Add the item to redirecting entries (files).
