@@ -89,4 +89,5 @@ Close the request (issue).
 - Use an issue [template](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository)?
 
 ### Limitations
+- A GitHub account is required to borrow items.
 - All requests, open and closed, are public.
