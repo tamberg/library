@@ -82,6 +82,7 @@ Close the request (issue).
 - Add the item to redirecting entries (files).
 - Create [pre-populated links](https://stackoverflow.com/questions/34146618/pre-populate-the-github-new-issue-form-using-the-querystring) to check/borrow.
 
+## Meta
 ### Automation
 - CLI python script to create links?
 - GitHub actions and badges?
