@@ -56,7 +56,7 @@ See any [user's requests](../../issues?q=is%3Aissue+is%3Aopen+author%3AGITHUB_US
 See all [open requests](../../issues?q=is%3Aissue+is%3Aopen) (issues).
 
 ### Get notified about requests
-Enable _Watch > Custom > [x] Issues_.
+Enable _Watch > Custom > ☑ Issues_.
 
 ### Respond to a request
 - Tag a request (issue) with `ready`, once the item is available.
