@@ -67,15 +67,11 @@ Tag request issue with `due`.
 Tag request issue with `late`.
 
 ### Add an item
-Add an item (file) to a topic (directory).
-
-Add the item to redirecting entries (files).
-
-Create [pre-populated links](https://stackoverflow.com/questions/34146618/pre-populate-the-github-new-issue-form-using-the-querystring) to check/borrow.
+- Add an item (file) to a topic (directory).
+- Add the item to redirecting entries (files).
+- Create [pre-populated links](https://stackoverflow.com/questions/34146618/pre-populate-the-github-new-issue-form-using-the-querystring) to check/borrow.
 
 ### Automation
-CLI python script to create links?
-
-GitHub actions and badges?
-
-Use an issue [template](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository)?
+- CLI python script to create links?
+- GitHub actions and badges?
+- Use an issue [template](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository)?
