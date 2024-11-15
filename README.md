@@ -53,17 +53,17 @@ Log in to [see your requests](../../issues?q=is%3Aissue+is%3Aopen+author%3A@me) 
 See any [user's requests](../../issues?q=is%3Aissue+is%3Aopen+author%3AGITHUB_USER) (issues).
 
 ### Respond to a request
-- Tag a request with `ready`, once the item is available.
-- Add comments to reach out, if necesssary.
+- Tag a request (issue) with `ready`, once the item is available.
+- Add comments to reach out to the user, if necesssary.
 
 ### Hand-out an item
-Tag request issue with `out`.
+Tag the request (issue) with `out`.
 
 ### Recall a due item
-Tag request issue with `due`.
+Tag the request (issue) with `due`.
 
 ### Remind a late user
-Tag request issue with `late`.
+Tag the request (issue) with `late`.
 
 ### Add an item
 - Add an item (file) to a topic (directory).
