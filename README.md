@@ -52,6 +52,9 @@ Log in to [see your requests](../../issues?q=is%3Aissue+is%3Aopen+author%3A@me) 
 ### List any user's requests
 See any [user's requests](../../issues?q=is%3Aissue+is%3Aopen+author%3AGITHUB_USER) (issues).
 
+### List all open requests
+See all [open requests](../../issues?q=is%3Aissue+is%3Aopen) (issues).
+
 ### Respond to a request
 - Tag a request (issue) with `ready`, once the item is available.
 - Add comments to reach out to the user, if necesssary.
