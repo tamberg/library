@@ -49,6 +49,10 @@ Find an item (file) to [borrow it](../../issues/new?title=Borrow%20request%20for
 ### List my requests
 Log in to [see your requests](../../issues?q=is%3Aissue+is%3Aopen+author%3A@me) (issues).
 
+### More for admins
+<details>
+<summary>Additional use cases for admins.</summary>
+
 ### List any user's requests
 See any [user's requests](../../issues?q=is%3Aissue+is%3Aopen+author%3AGITHUB_USER) (issues).
 
@@ -81,6 +85,7 @@ Close the request (issue).
 - Add an item (file) to a topic (directory).
 - Add the item to redirecting entries (files).
 - Create [pre-populated links](https://stackoverflow.com/questions/34146618/pre-populate-the-github-new-issue-form-using-the-querystring) to check/borrow.
+</details>
 
 ## Meta
 ### Automation
