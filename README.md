@@ -41,7 +41,7 @@ For `ready`, `out`, `due`, `late` or `closed` requests — by labeling or closin
 Use the GitHub (file) search, to find [an item](Hardware/Microcontrollers/Adafruit_Feather_M4_Express.md).
 
 ### Check availability
-Find an item (file) to [check its availability](../../issues?q=is%3Aissue+is%3Aopen+%22Adafruit+Feather+M4+Express%22).
+Find an item (file) to [check its availability](../../issues?q=is%3Aissue+is%3Aopen+%22Adafruit+Feather+M4+Express%22+in%3Atitle).
 
 ### Request an item
 Find an item (file) to [borrow it](../../issues/new?title=Borrow%20request%20for%20Adafruit%20Feather%20M4%20Express&body=1%20piece%20of%20[this](../blob/main/Hardware/Microcontrollers/Adafruit_Feather_M4_Express.md)%20for%20~2%20weeks.) (new issue).
